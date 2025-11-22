@@ -2,6 +2,6 @@
 
 # Here are some links to my other repos!
 
-https://github.com/llostinthesauce/lumen
-https://github.com/llostinthesauce/acre
-https://github.com/llostinthesauce/nq-trading-journal
+>https://github.com/llostinthesauce/lumen
+>https://github.com/llostinthesauce/acre
+>https://github.com/llostinthesauce/nq-trading-journal
